@@ -9,10 +9,8 @@ In this repository I'm checking how things are working.
 Step 1. Add it in your root `build.gradle.kts` at the end of repositories:
 
 ```kotlin
-allprojects {
-    repositories {
-        maven("https://jitpack.io")
-    }
+repositories {
+    maven("https://jitpack.io")
 }
 ```
 
