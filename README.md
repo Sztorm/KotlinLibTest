@@ -1,4 +1,7 @@
 ## KotlinLibTest
+
+[![](https://jitpack.io/v/Sztorm/KotlinLibTest.svg)](https://jitpack.io/#Sztorm/KotlinLibTest)
+
 In this repository I'm checking how things are working.
 
 ## Installation
