@@ -1,4 +1,4 @@
-package com.sztorm.libtest
+package com.sztorm.libtest2
 
 fun exampleFunction(x: Float) = x + x
 
